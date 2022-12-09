@@ -1,8 +1,8 @@
 {
-  "name": "fast-company",
+  "name": "sorting-implementation-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexandr49242.github.io/fast-company/",
+  "homepage": "https://alexandr49242.github.io/Sorting-Implementation-React/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -48,6 +48,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.6.0",
     "eslint-plugin-promise": "^6.1.1",
-    "eslint-plugin-react": "^7.31.11"
+    "eslint-plugin-react": "^7.31.11",
+    "gh-pages": "^4.0.0"
   }
 }

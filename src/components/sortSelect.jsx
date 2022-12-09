@@ -17,7 +17,7 @@ const SortSelect = ({ value, options, onSort }) => {
 };
 
 SortSelect.propTypes = {
-  value: PropTypes.string,
+  value: PropTypes.string.isRequired,
   options: PropTypes.arrayOf(
     PropTypes.shape({
       value: PropTypes.string.isRequired,
